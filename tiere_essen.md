@@ -1,4 +1,4 @@
-#Tiere essen?!
+# Tiere essen?!
 *Warum der Verzicht auf Fleisch und tierische Produkte weder Tierleid mindert, noch die Umwelt rettet.*
 
 Es gibt einige Menschen, die aus den verschiedensten Gründen auf Fleisch oder gleich ganz auf jegliches tierisches Produkt verzichten. Beispielsweise sogenannte ovo-lacto Vegetarier\*innen - diese verzichten auf Fleisch in der Ernährung, nehmen aber auch Ei, Milch und Honig zu sich. Es gibt auch Veganer\*innen - diese verzichten in der Ernährung auf jegliches Produkt von Tieren. Veganer\*innen unterscheiden sich auch darin, ob sie sich vegan ernähren oder komplett vegan leben. Wer vegan lebt, verzichtet nicht nur beim Essen auf tierische Produkte, sondern meidet z.B. auch Leder bei Schuhen oder kauft nur tierversuchsfreie Waren. Dazwischen existieren natürlich unterschiedlichste Mischformen. Viele Menschen legen auch einen fleischfreien Tag ein, wollen zwar nicht vegetarisch werden, aber sehen sich als "Flexitarier\_innen", also als Menschen, die bewusst und sparsam mit Fleisch und Tierprodukten umgehen.
@@ -11,7 +11,7 @@ Noch zwei Warnungen vorneweg:
 Uns geht es in diesem Artikel nicht darum, die Frage zu klären, ob Fleisch essen generell moralisch verwerflich ist. Uns geht es weiters nicht um die Frage, ob Tiere "benutzt" werden dürfen oder nicht. Vielmehr setzt sich der Text mit der politischen Position auseinander, die behauptet, dass der Konsum oder eben der Verzicht auf Konsum von tierischen Produkten konkrete und lenkbare Auswirkungen haben kann. Wer sich für diese andere Diskussion interessiert, sollte sich im Internet auf die Suche nach der Debatte über "politischen Veganismus" machen.
 Im Folgenden werden wir auch bestimmte Filme und Organisationen erwähnen. Wir haben diese nach dem Gesichtspunkt der Bekanntheit ausgewählt. Uns ist bewusst, dass neben den von uns kritisierten Punkten an diesen Filmen und Organisationen noch einige andere kritikwürdige Inhalte vorkommen.
 
-##Wer Fleisch isst, unterstützt Tierleiden?
+## Wer Fleisch isst, unterstützt Tierleiden?
 
 Wer eine der vielen Dokumentationen wie beispielsweise Earthlings[^earthlings] das  Youtube-Video "Meet Your Meat" von PETA[^peta] oder auch "We feed the World"[^feedworld] gesehen hat, wird merken: Die Art und Weise, wie Fleisch in unserer Gesellschaft produziert wird bzw. wie Tiere behandelt werden, ist nichts für schwache Nerven und Mägen. Die Details der Behandlung führen wir hier nicht weiter aus, weil allgemein bekannt und auch leicht zu recherchieren.
 
@@ -28,7 +28,7 @@ Bisher wurde nur über Nutztiere gesprochen, also über Tiere, die für Nahrung,
 
 Der Grund für das Leiden der Tiere liegt eben nicht in der Boshaftigkeit und der fehlenden Moral von Fleischunternehmen. Es macht schlicht und ergreifend aus finanziellen Gründen Sinn, die Tiere so zu halten und zu schlachten, wie es hier getan wird. Wer auf 5m2 mehr Tiere halten kann als die Konkurrenz, ist erfolgreicher. Wer die Maschinerie für die Schlachtung von Tieren seltener oder gar nicht in Ordnung hält und den qualvollen Tod der Tiere in Kauf nimmt, erspart sich teure Reparaturen. Wer sich also an diesem Tierleid stört, sollte sich an die Abschaffung der Gründe dieses Leids machen: Dem Ziel der Unternehmen aus Geld mehr Geld zu machen.
 
-##Kein Rinderfurzen, keine Umwelt vermurksen?
+## Kein Rinderfurzen, keine Umwelt vermurksen?
 
 Nicht nur die schlechte Behandlung von Tieren ist oft ein Grund für fleischloses Leben, auch die Sorge um die Umwelt treibt Menschen zur fleisch-armen/vegetarisch/veganen Ernährung oder Lebensstil.
 
@@ -58,7 +58,7 @@ Aber würde mehr Nahrung nicht auch zu billigeren Preisen führen? Wäre dies ni
 
 Wer sich am Welthunger stört, der*die sollte sich am Zweck der Nahrungsproduktion stören. Denn der Zweck ist nicht die Bedürfnisbefriedigung möglichst vieler Menschen, sondern eine Möglichkeit Geld zu vermehren wie jeder andere Geschäftszweig auch.
 
-##Fazit
+## Fazit
 
 Um einem Missverständnis vorzubeugen: Wir plädieren nicht für "Tiere essen". Uns geht es in diesem Text nicht um die Frage, ob der Verzehr von Tieren deren Gebrauch moralisch gerechtfertigt ist oder nicht. Wir plädieren jedoch für ein kritisches und ernsthaftes Hinterfragen der Gründe, die gegen das "Tiere essen" ins Feld geführt werden. Wir wollen mit unserem Text auch nicht behaupten, dass veränderter Konsum nichts verändert. Das tut er natürlich. Was sich verändert, haben die Konsument\*innen jedoch nicht in der Hand – mit der Veränderung ihres Konsums ändert sich nicht der Grund warum und wie produziert wird: für den Profit.
 Mit den obigen Argumenten, wollen wir gezeigt haben, dass es eben nicht der Wunsch vieler Menschen nach Fleisch ist, der den Tieren und der Umwelt Schaden zufügt. Und für die vielen hungernden Menschen auf dieser Welt, ist auch nicht die burgeressende und schnitzelverzehrende Bevölkerung verantwortlich.
