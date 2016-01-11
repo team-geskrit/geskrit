@@ -37,6 +37,7 @@
     es keine Arbeitsplätze.
     
 3. Fazit
+
 	Begonnen haben wir mit der Zahnbürste, diese ist jedoch nicht der Sinn des Privateigentums. Vielmehr garantiert es die Profitvermehrung von Unternehmen.
 	* Das Bedürfnis nach einem Dach über dem Kopf heißt noch nicht, dass einem eine Wohnung gehört.
 	* Vielmehr muss man dafür Miete zahlen. Wenn man das nicht tut und trotzdem in ihr wohnt, wird man bestraft (und wohnt dann in der Gefängnisszelle).
