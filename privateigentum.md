@@ -4,6 +4,7 @@
     * In Medien und Politik wird oft und gerne über die Verteilung von Reichtum diskutiert.
     * Über das zugrundeliegende Prinzip Privateigentum wird dabei nie gesprochen.
     * Privateigentum ist nicht natürlich und es ist schädlich für den Großteil der Menschen.
+    * Wir wollen geläufige Vorstellungen zum Privateigentum erschüttern und Leute dadurch motivieren sich grundsätzlich mit Privateigentum auseinanderzusetzen.
     
 1. ## Was ist Privateigentum? 
     * Privateigentum bedeutet die alleinige Verfügungsgewalt über Dinge. Diese ist rechtlich geregelt, d.h. der Staat setzt dieses Prinzip notfalls auch mit Gewalt durch.
