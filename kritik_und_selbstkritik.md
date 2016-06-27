@@ -1,7 +1,7 @@
 # Kritik und Selbstkritik
 Seit einiger Zeit Zeit sind wir in Österreich und Deutschland mit unserem Workshop ["Kaufen gegen den Kapitalismus?!"](https://geskrit.wordpress.com/texte/kaufen-gegen-den-kapitalismus/) zur Kritik der Konsumkritik unterwegs. Neulich haben wir von Genossen eine Kritik daran erhalten, die wir für zutreffend halten und deren Inhalt wir hier darlegen möchten. Änderungen am Workshop und am Text folgen im Laufe der Zeit und werden gesondert angekündigt. Um die Kritik und ihre Folgen nachvollziehbar zu machen, werden wir den alten Text auf unserer Seite archivieren.
 
-## Wie wir den Fehler der KOnsumkritiker unterstützten
+## Wie wir den Fehler der Konsumkritiker unterstützten
 Konsumkritiker betrachten die ganze Welt der Produktion und Distribution von Gütern unter einem Gesichtspunkt: Wie kann ich den Konsum dazu einsetzen um diese Welt anders, also besser, zu gestalten? Von diesem falschen Standpunkt ergeben sich verkehrte Konsequenzen:
 
 * Wir sehen das Profitstreben als den Grund all der Übel, welche Konsumkritiker anprangern. Ihnen erscheint dieses Profitstreben jedoch als Möglichkeit mittels Kaufentscheidungen bzw. Boykotts steuernd in das Geschäft von Unternehmen eingreifen zu können. Anstatt also den Grund der ganzen Übel - das Profitstreben - abschaffen zu wollen, freuen sich Konsumkritiker über diesen Hebel, mit dem sie versuchen Unternehmen zu beeinflussen.
