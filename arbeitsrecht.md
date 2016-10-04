@@ -21,7 +21,7 @@ Es wird aber dann doch noch ein Schuldiger für diese neuen Entwicklungen ausgem
 
 Weil also Leute heutzutage auch mal E-Mails versenden und Computer verwenden statt Briefe zu schicken und auf Schreibmaschinen tippen, soll die Arbeit entgrenzt sein? Damit eine neue Technologie wie die Digitalisierung zu solchen Effekten führt, braucht es schon ein Interesse, welche diese neue Technologie genau dazu nutzen will.
 
-Natürlich, ist jeder ständig erreichbar, ermöglicht das auch Unternehmen einen größeren Zugriff auf die Beschäftigten. Aber das Interesse möglichst viel Arbeit aus Arbeitnehmer\*innen zu ziehen, muss schon von vorher existieren. Erst dadurch können Smartphones und Notebooks zur Burnoutgefahr werden.
+Natürlich, ist jeder ständig erreichbar, ermöglicht das auch Unternehmen einen größeren Zugriff auf die Beschäftigten. Aber das Interesse möglichst viel Arbeit aus Arbeitnehmer\*innen zu ziehen, muss schon von vorher existieren. [Erst dadurch können Smartphones und Notebooks zur Burnoutgefahr werden](http://www.heise.de/newsticker/meldung/Digitalisierung-belastet-Familienleben-und-Gesundheit-3332752.html?wt_mc=rss.ho.beitrag.atom).
 
 ### Wenn das Phänomen zur Ursache der Dinge wird...
 
