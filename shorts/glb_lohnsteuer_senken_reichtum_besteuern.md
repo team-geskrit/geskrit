@@ -1,6 +1,8 @@
-http://www.glb.at/article.php/20110818132447438
+# Sozial steuern - Löhne entlasten - Reichtum besteuern?
 
-# Struktur 
+*Was das Steuerkonzept des [Gewerkschaftlichen Linksblocks (GLB)](https://de.wikipedia.org/wiki/Gewerkschaftlicher_Linksblock) über das ökonomische Verständnis des GLB und der [KPÖ](https://de.wikipedia.org/wiki/Kommunistische_Partei_%C3%96sterreichs) aussagen*
+
+Die Kampagne des GLB's [Sozial steuern. Löhne entlasten. Reichtum besteuern.](http://www.glb.at/article.php/20110818132447438) ist schon etwas älter - aber noch hängt das Transparent der Kampagne am [Volksheim im Salzburg](https://de.wikipedia.org/wiki/Jazzit). Die Gedanken hinter dem Slogan sind es wert genauer betrachtet zu werden. Zeigen sie doch, wie KPÖ & GLB über diese Gesellschaft denken und was ihre Kritik an ihr ist.
 
 ### Es gibt Menschen denen es sozial schlecht geht
 
