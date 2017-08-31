@@ -2,7 +2,7 @@
 
 Die UNO ist keine bescheidene Institution: Das UN World Food Programme (WFP) [^wfp] hat sich zum Ziel gesetzt [^wfp_ziel] den Hunger bis zum Jahr 2030 auszurotten. In einem Interview mit der Frankfurter Allgemeinen  [^faz] äußert sich der Chef des WFP zu den Chancen dieses Projekts. Seine Einschätzung: "*Es gibt null Chancen für null Hunger bis 2030*".
 
-Seinem Pessismismus liegt jedoch nicht eine zu kleine Menge an vorhandenen oder produzierbaren Nahrungsmittel zugrunde. Nein, den Grund für all den Hunger sieht er im fehlenden Engagement der wirtschaftlich erfolgreichen Staaten. Diese spenden in seinen Augen zu wenig Dollars an das WFP und kümmern sich nicht ernsthaft genug um die Lösung der militärischen Konflikte in dieser Welt. Worum es bei diesen Konflikten in Syrien, Südsudan [^sudan], usw. geht, scheint ihn dabei nicht zu interessieren.
+Seinem Pessimismus liegt jedoch nicht eine zu kleine Menge an vorhandenen oder produzierbaren Nahrungsmittel zugrunde. Nein, den Grund für all den Hunger sieht er im fehlenden Engagement der wirtschaftlich erfolgreichen Staaten. Diese spenden in seinen Augen zu wenig Dollars an das WFP und kümmern sich nicht ernsthaft genug um die Lösung der militärischen Konflikte in dieser Welt. Worum es bei diesen Konflikten in Syrien, Südsudan [^sudan], usw. geht, scheint ihn dabei nicht zu interessieren.
 
 Wir wollen aufzeigen, warum es ein Fehler ist, die Untersuchung der Gründe für Hunger hintanzustellen und pragmatisch an die Abschaffung des Welthungers heranzugehen.
 
@@ -16,7 +16,7 @@ Diese Phänomene nimmt er jedoch nur als Hindernis oder als Mittel für sein Zie
 
 ### ...zum Verwandlungskünstler Beasly
 
-Beim Verfolgen seines Ziel - des Auslöschens des Hungers weltweit - wird Beasly zum Verwandlungskünstler: Wenn er an Staaten herantritt und um deren Unterstützung wirbt, verwandelt er das Thema Hunger in ein Problem zweiter Klasse. Die Staaten sollen ihn nicht deshalb unterstützen, weil diese den Hunger an sich so verdammenswert finden, sondern weil der Kampf gegen den Hunger deren ureigenste Interessen bedient.
+Beim Verfolgen seines Ziel - des Auslöschens des Hungers weltweit - wird Beasly zum Verwandlungskünstler: Wenn er an Staaten herantritt und um deren Unterstützung wirbt, verwandelt er das Thema Hunger in ein Problem zweiter Klasse. Die Staaten sollen ihn nicht deshalb unterstützen, weil diese den Hunger an sich so verdammenswert finden, sondern weil der Kampf gegen den Hunger deren ureigene Interessen bedient.
 
 Gleich am Anfang führt Beasly diese Verwandlung am Thema Migration vor. Der Tenor: Bei allen Gründen, die es sonst für Migration gibt, würden die Leute lieber in ihren Heimatländern bleiben, wenn dort nicht Hunger herrschen würde. Es läge also ganz im Interesse der westlichen Staaten das Hungerproblem zu lösen, denn dann hätten sie auch keine Probleme mit unerwünschter Migration.
 
