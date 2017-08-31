@@ -1,6 +1,6 @@
 ## Null Chancen für null Hunger bis 2030
 
-Die UNO ist keine bescheidene Institution: Das UN World Food Programme (WFP) [^wfp] hat sich zum Ziel gesetzt [^wfp_ziel] den Hunger bis zum Jahr 2030 auszurotten. In einem Interview mit der Frankfurter Allgemeinen äußert sich der Chef des WFP zu den Chancen dieses Projekts. Seine Einschätzung: "Es gibt null Chancen für null Hunger bis 2030". Seinem Pessismismus liegt jedoch nicht eine zu kleine Menge an produzierten Nahrungsmittel zugrunde. Nein, den Grund für all den Hunger sieht er im fehlenden Engagement der wirtschaftlich erfolgreichen Staaten. Diese spenden in seinen Augen zu wenig Dollars an das WFP und kümmern sich zuwenig um die Lösung der militärischen Konflikte in dieser Welt. Worum es bei diesen Konflikten in Syrien, Südsudan, usw. geht, scheint ihn dabei nicht zu interessieren.
+Die UNO ist keine bescheidene Institution: Das UN World Food Programme (WFP) [^wfp] hat sich zum Ziel gesetzt [^wfp_ziel] den Hunger bis zum Jahr 2030 auszurotten. In einem Interview mit der Frankfurter Allgemeinen  [^faz] äußert sich der Chef des WFP zu den Chancen dieses Projekts. Seine Einschätzung: "Es gibt null Chancen für null Hunger bis 2030". Seinem Pessismismus liegt jedoch nicht eine zu kleine Menge an produzierten Nahrungsmittel zugrunde. Nein, den Grund für all den Hunger sieht er im fehlenden Engagement der wirtschaftlich erfolgreichen Staaten. Diese spenden in seinen Augen zu wenig Dollars an das WFP und kümmern sich zuwenig um die Lösung der militärischen Konflikte in dieser Welt. Worum es bei diesen Konflikten in Syrien, Südsudan, usw. geht, scheint ihn dabei nicht zu interessieren.
 
 In diesem kleinen Text wollen wir aufzeigen, warum es ein Fehler ist, die Untersuchung der Gründe für Hunger hintanzustellen und pragmatisch an die Abschaffung des Welthungers heranzugehen:
 
@@ -59,9 +59,8 @@ Wie das Problem mit dem Hunger, dass von Beasly zielgerichtet in ein Weltordnung
 
 [^wfp]: Mehr Informationen über das World Food Programme findet ihr auf Wikipedia unter https://de.wikipedia.org/wiki/Weltern%C3%A4hrungsprogramm_der_Vereinten_Nationen
 
-[^wfp_ziel]: Ziel der WFP: 
-> The mission of the UN World Food Programme is to end global hunger by providing frontline assistance in emergencies and working with partners to address the underlying causes of hunger. WFP is working towards a world with Zero Hunger by 2030, as outlined in the Sustainable Development Goals (https://www.wfp.org/content/2016-zero-hunger-heart-2030-agenda)
+[^wfp_ziel]: Ziel der WFP: "The mission of the UN World Food Programme is to end global hunger by providing frontline assistance in emergencies and working with partners to address the underlying causes of hunger. WFP is working towards a world with Zero Hunger by 2030, as outlined in the Sustainable Development Goals" (https://www.wfp.org/content/2016-zero-hunger-heart-2030-agenda)
 
 [^kolumbien_vertreibung]: amerika21.de: Internationale Konzerne verkaufen in Kolumbien geförderte Kohle auch nach Deutschland. Gewalt gegen Menschen in Abbaugebieten  (https://amerika21.de/video/9795Internationale Konzerne verkaufen in Kolumbien geförderte Kohle auch nach Deutschland. Gewalt gegen Menschen in Abbaugebieten 1/kolumbien-kohle-vertreibung)
 
-[^afrika_fruchtbar]: fluchgrund.de : Uganda: Gewaltsame Vertreibung Ansässiger für Kaffeeplantage (http://www.fluchtgrund.de/2017/01/uganda-gewaltsame-vertreibung-ansaessiger-fuer-kaffeeplantage/)
+[^afrika_fruchtbar]: fluchtgrund.de : Uganda: Gewaltsame Vertreibung Ansässiger für Kaffeeplantage (http://www.fluchtgrund.de/2017/01/uganda-gewaltsame-vertreibung-ansaessiger-fuer-kaffeeplantage/)
