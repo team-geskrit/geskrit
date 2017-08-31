@@ -6,19 +6,19 @@ Seinem Pessismismus liegt jedoch nicht eine zu kleine Menge an vorhandenen oder 
 
 Wir wollen aufzeigen, warum es ein Fehler ist, die Untersuchung der Gründe für Hunger hintanzustellen und pragmatisch an die Abschaffung des Welthungers heranzugehen.
 
-### Probieren geht über studieren...
+### Vom Kämpfer gegen den Hunger...
 
-David Beasly hat es sich zur Aufgabe gemacht, den Welthunger zu bekämpfen: Als Leiter des WFP ist es seine Aufgabe, die Welt zu ernähren. Als solches kümmert er sich nicht darum, warum Menschen hungern. Ihn interessiert nur wie man diesen Menschen Nahrung beschaffen kann. Dabei ist ihm natürlich bekannt, dass es so etwas wie Weltmächte, Weltmarkt und Kriege gibt.
+David Beasly hat es sich zur Mission gemacht, den Welthunger zu bekämpfen: Als Leiter des WFP ist es seine Aufgabe, die Welt zu ernähren. Als solcher kümmert er sich nicht darum, warum Menschen hungern. Ihn interessiert nur, wie man diesen Menschen Nahrung beschaffen kann. Dabei ist ihm natürlich bekannt, dass es so etwas wie Weltmächte, Weltmarkt und Kriege gibt.
 
 Diese Phänomene nimmt er jedoch nur als Hindernis oder als Mittel für sein Ziel - der Ernährung der Menschheit - wahr. Was ein Weltmarkt ist, wie Kriege entstehen und warum es so etwas wie Weltmächte gibt und was diese mit dem Hunger zu tun haben könnten, diese Fragen stellt er sich dabei nicht.
 
 > Manche Gebiete können wir aufgrund der Sicherheitslage nicht erreichen. In Syrien unterstützen wir mehr als vier Millionen Menschen im Monat, können aber etwa 600.000 Personen gar nicht versorgen. Wir wissen nicht, ob die verhungern. Im Jemen gibt es auch viele kaum zu erreichende Gegenden. In Südsudan kommt jetzt die Regenzeit, was Straßen unpassierbar macht. Vielerorts nutzen die kämpfenden Parteien den Hunger als Waffe.
 
-### Verwandlungskünstler Beasly: Vom Hunger zu Migration und Terrorismus
+### ...zum Verwandlungskünstler Beasly
 
 Beim Verfolgen seines Ziel - des Auslöschens des Hungers weltweit - wird Beasly zum Verwandlungskünstler: Wenn er an Staaten herantritt und um deren Unterstützung wirbt, verwandelt er das Thema Hunger in ein Problem zweiter Klasse. Die Staaten sollen ihn nicht deshalb unterstützen, weil diese den Hunger an sich so verdammenswert finden, sondern weil der Kampf gegen den Hunger deren ureigenste Interessen bedient.
 
-Gleich am Anfang führt Beasly diese Verwandlung am Thema Migration vor. Der Tenor: Bei allen Gründen, die es sonst für Migration gibt, würden die Leute lieber in ihren Heimatländern bleiben, wenn dort nicht Hunger herrschen würde. Es läge also ganz im Interesse der westlichen Staaten das Hungerproblem zu lösen. Denn dann hätten sie auch keine Probleme mit unerwünschter Migration.
+Gleich am Anfang führt Beasly diese Verwandlung am Thema Migration vor. Der Tenor: Bei allen Gründen, die es sonst für Migration gibt, würden die Leute lieber in ihren Heimatländern bleiben, wenn dort nicht Hunger herrschen würde. Es läge also ganz im Interesse der westlichen Staaten das Hungerproblem zu lösen, denn dann hätten sie auch keine Probleme mit unerwünschter Migration.
 
 > Hunger ist einer der Faktoren, die Migration verursachen. Ein Prozent mehr Hunger führt zu einer doppelt so schnell steigenden Migrationsrate. Wenn wir den Hunger bekämpfen, geht daher die Migration zurück. Allerdings können wir durch die Konflikte viele Menschen nicht erreichen. [...] Die Menschen wollen in ihrer Heimatregion bleiben. Aber wir müssen ihnen auch die Chance geben, das zu tun.
 
@@ -34,23 +34,23 @@ Wieder wird der Hunger verwandelt: Nun ist Beasly nicht mehr gegen den Hunger un
 
 ### Desinteresse westlicher Staaten der Grund für weltweiten Hunger? Ganz im Gegenteil!
 
-Funktionieren können diese Verwandlungen des Problems Hungers nur deshalb, weil es ein Interesse von seiten der westlichen Staaten an den Orten der Welt gibt, an denen gehungert wird. Die westlichen Staaten haben an diesen Orten ein Interesse an einer ihnen genehmen Ordnung. Westliches Militär tritt nur an Orten dieser Welt in Erscheinung, an denen westliche Staaten Interessen durchsetzen wollen. Gibt es dieses Interesse nicht, so ist es auch egal ob dort gehungert und gekämpft, sogar ein Failed State entsteht.
+Funktionieren können diese Verwandlungen des Problems Hungers nur deshalb, weil es ein Interesse von seiten der westlichen Staaten an den Orten der Welt gibt, an denen gehungert wird. Die westlichen Staaten haben an diesen Orten ein Interesse an einer ihnen genehmen Ordnung. Westliches Militär tritt nur an Orten dieser Welt in Erscheinung, an denen westliche Staaten Interessen durchsetzen wollen. Gibt es dieses Interesse nicht, so ist es auch egal, ob dort gehungert und gekämpft wird oder sogar ein Failed State entsteht.
 
-Wie diese Interessen beschaffen sind, ist auch nicht unbekannt: Viele dieser problembehafteten Staaten sind interessant, weil es dort Rohstoffe gibt, mit denen sich etwas verdienen lässt. Herrscht jedoch dieses Interesse vor, dann stören die Leute die auf den Rohstoffquellen wohnen erstmal. Gebraucht werden sie auf jeden Fall nur in sehr begrenztem Umfang für den Abtransport dieser Ressourcen [^kolumbien_vertreibung].
+Wie diese Interessen beschaffen sind, ist auch nicht unbekannt: Viele dieser problembehafteten Staaten sind interessant, weil es dort Rohstoffe gibt, mit denen sich etwas verdienen lässt. Herrscht jedoch dieses Interesse vor, dann stören die Leute, die auf den Rohstoffquellen wohnen, erstmal. Gebraucht werden sie auf jeden Fall nur in sehr begrenztem Umfang für den Abtransport dieser Ressourcen [^kolumbien_vertreibung].
 
 Einerseits sind diese Länder also in den Weltmarkt eingebunden und sollen es auch bleiben. Essen gibt es also auch dort nur gegen Geld. Andererseits sind die Leute dort für die herrschenden Interessen einfach überflüssig, haben also kein Geld, daher Hunger. Die Option Subsistenz, Landwirtschaft betreiben für das eigene Überleben, ist ihnen nicht mehr möglich.
 
-Ähnlich bei Nahrung: Schließlich ist es ja nicht so, dass in Afrika nichts angebaut wird. Afrika ist ein fruchtbarer Kontinent [^afrika_fruchtbar]. Doch auch diese Ressourcen zählen nur wegen dem Geldertrag, den sie versprechen. Da schneiden Tabak oder Kakaopflanzen einfach besser ab als Getreide für die Bevölkerung, die sich nichts leisten kann. Auch hier ist es also das bestehende Interesse an diesem Landstrich, das den Hunger erzeugt und nicht das fehlende.
+Ähnlich bei Nahrung: Schließlich ist es ja nicht so, dass in Afrika nichts angebaut wird. Afrika ist ein fruchtbarer Kontinent [^afrika_fruchtbar]. Doch auch diese Ressourcen zählen nur wegen dem Geldertrag, den sie versprechen. Da schneiden Tabak oder Kakaopflanzen einfach besser ab als Getreide für die Bevölkerung, die sich nichts leisten kann. Auch hier ist es also das *bestehende* Interesse an diesem Landstrich, das den Hunger erzeugt, und nicht das *fehlende*.
 
 ### Ohne Aufstände und Terror - keine Hilfe gegen den Hunger
 
 Das ist dann auch die Tragik des Standpunkts von Beasly. Ganz pragmatisch geht er auf den Hunger los um am Ende dabei zu landen, sich zum Anwalt der effizienteren Durchsetzung der Interessen zu machen, die den Hunger erzeugen. Für was er sich einsetzt ist nicht das Ende des Elends, sondern eine Betreuung der Probleme die durch dieses Elend entstehen. 
 
-Hunger wird erst zum "Menschheitsproblem" weil er zu unerwünschter Migration, Aufständen oder Terror führen kann. Man würds dem Kämpfer gegen den Hunger gerne sagen, doch würde damit wohl auf taube Ohren stoßen, schließlich:
+Hunger wird erst zum "Menschheitsproblem", weil er zu unerwünschter Migration, Aufständen oder Terror führen kann. Man würde es dem Kämpfer gegen den Hunger gerne sagen, doch würde damit wohl auf taube Ohren stoßen, schließlich:
 
 > Ich muss dafür sorgen, eine zusätzliche Milliarde zusammenzubekommen, damit nicht binnen weniger Wochen 600.000 Kinder sterben.
 
-Und dafür dass im nächsten Jahr nicht wieder tausende Menschen vor dem Hungertod stehen. Und auch das Jahr darauf und so weiter. Warum der Hunger fortbesteht, diese Frage stellt er sich eben nicht.
+Und dafür, dass im nächsten Jahr nicht wieder tausende Menschen vor dem Hungertod stehen. Und auch das Jahr darauf und so weiter. Warum der Hunger fortbesteht, diese Frage stellt er sich eben nicht.
 
 [^wfp]: Mehr Informationen über das World Food Programme findet ihr auf Wikipedia unter https://de.wikipedia.org/wiki/Weltern%C3%A4hrungsprogramm_der_Vereinten_Nationen
 
