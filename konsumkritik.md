@@ -17,11 +17,11 @@ Diese Güter (und Dienstleistungen [^dienstleistungen]) sind einerseits in unser
 
 Diese Dinge werden jedoch nicht einfach produziert weil sie gebraucht werden und damit sie genutzt werden. Klar, will niemand ein Konsumgut haben, finden sich keine Käufer, und das Unternehmen dass es produziert geht leer aus. Allerdings ist das Bedürfnis nach der Sache nur ein Mittel für das Unternehmen um über den Verkauf Geld zu erlösen, mehr als die Produktion der Sache gekostet hat. Das Interesse der Unternehmen an den produzierten Sachen ist es also, dass Bedürfnis nach ihnen so auszunutzen dass sie am Ende mehr Geld in der Tasche haben als vor der Produktion.
 
+Aus der Logik dieses Zweckes  Profit ergeben sich für die Umwelt, die Höhe des Lohns, Arbeitsplätze und wie dort gearbeitet werden muss und die hergestellten Produkte und Dienstleistungen Konsequenzen, die wir festhalten wollen.
+
 ### Wie wirkt sich der Zweck Profit aus auf...
 
-Aus der Logik dieses Zweckes ergeben sich für alle von der Produktion betroffenen Gebiete Konsequenzen, die wir zuerst einmal festhalten wollen.
-
-#### ... Umwelt und Natur als Basis der Wirtschaft?
+##### ... Umwelt und Natur?
 
 Die Umwelt ist zuerst einmal die Bedingung dafür, dass man überhaupt konsumieren kann: irgendwoher müssen die Stoffe ja kommen, die mit Arbeit in nützliche Sachen umgewandelt werden können. Gleichzeitig ist sie die Umgebung, in der jeder Konsum und jede Lebensregung stattfindet: Deswegen ist es nützlich dass sie so gestaltet ist, dass sie dem Menschen möglichst wenig schadet.
 In der Logik des Profits allerdings liegt es, diese Bedingungen zu zerstören. So macht es für Fischereiunternehmen durchaus Sinn, Fischbestände so intensiv zu befischen dass nach ein paar Jahren keine Fische mehr vorhanden sind die man fischen kann, schließlich bedeutet in diesem Zeitraum jeder Fisch den man selbst fangen und verkaufen konnte mehr Gewinn[^ressourcen].  Bei nachwachsenden Ressourcen ist es also so, dass es in der Logik des Profits liegt sie zu [zerstören solange man Geld damit verdienen kann](http://www.zeit.de/wissen/umwelt/2016-01/ueberfischung-bedrohung-arten-fehler-angaben/komplettansicht). 
