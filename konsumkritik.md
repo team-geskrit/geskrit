@@ -17,7 +17,7 @@ Diese Güter (und Dienstleistungen [^dienstleistungen]) sind einerseits in unser
 
 Diese Dinge werden jedoch nicht einfach produziert weil sie gebraucht werden und damit sie genutzt werden. Klar, will niemand ein Konsumgut haben, finden sich keine Käufer, und das Unternehmen dass es produziert geht leer aus. Allerdings ist das Bedürfnis nach der Sache nur ein Mittel für das Unternehmen um über den Verkauf Geld zu erlösen, mehr als die Produktion der Sache gekostet hat. Das Interesse der Unternehmen an den produzierten Sachen ist es also, dass Bedürfnis nach ihnen so auszunutzen dass sie am Ende mehr Geld in der Tasche haben als vor der Produktion.
 
-Aus der Logik dieses Zweckes  Profit ergeben sich für die Umwelt, die Höhe des Lohns, Arbeitsplätze und wie dort gearbeitet werden muss und die hergestellten Produkte und Dienstleistungen Konsequenzen, die wir festhalten wollen.
+Aus der Logik dieses Zweckes  Profit ergeben sich für die Umwelt, die Höhe des Lohns, den Arbeitsplätzen und wie dort gearbeitet werden muss und die hergestellten Produkte und Dienstleistungen Konsequenzen, die wir festhalten wollen.
 
 ### Wie wirkt sich der Zweck Profit aus auf...
 
