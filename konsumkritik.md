@@ -3,9 +3,12 @@ Aufgepasst: Begriffe wie Kapitalistin oder Profit sind oft moralisch aufgeladen,
 
 ### Einleitung
 
-Man hört es oft: Die Welt wäre ein besserer Ort, wenn die Leute nur richtig, weil bewusst, konsumieren würden. Egal ob immer mehr Lebensmittel mit viel kritisierten Technologien (Stichwort Genmanipulation) produziert werden, Produkte unter verabscheuungswürdigen Bedingungen für Mensch und Tier entstehen oder eigentlich noch brauchbare Sachen einfach weggeworfen werden – für Kritikerinnen des Konsums liegt die Lösung nahe. Sie selbst und alle anderen sollen ethisch korrekt konsumieren. Dieser ethische Konsum kann dabei unterschiedlichste Formen wie FairTrade oder auch regional und biologisch einkaufen annehmen.
+Man hört es oft: Die Welt wäre ein besserer Ort, wenn die Leute richtig, weil bewusst, konsumieren würden. Egal ob immer mehr Lebensmittel mit viel kritisierten Technologien (Stichwort Genmanipulation) produziert werden, Produkte unter verabscheuungswürdigen Bedingungen für Mensch und Tier entstehen, eigentlich noch brauchbare Sachen einfach weggeworfen werden oder die Umwelt unter der Herstellung von Konsumgütern leidet.
+Für Kritikerinnen des Konsums liegt die Lösung nahe. Es sollte ethisch korrekt konsumiert werden. Dieser ethische Konsum kann dabei unterschiedlichste Formen wie FairTrade oder auch regional und biologisch einkaufen annehmen.
 
-Dabei sehen wir ein Problem: Veränderter Konsum führt gar nicht zur Abschaffung der ganzen Misstände, diese haben ihren Grund woanders. Damit diese falschen Vorstellungen über den Konsum aus den Köpfen der Leute verschwinden und wir uns an die Beseitigung der wirklichen Gründe der Misstände machen können, haben wir diesen Text geschrieben.
+Dabei sehen wir ein Problem: Veränderter Konsum führt nicht zur Abschaffung der ganzen Misstände, da der Grund für diese nicht im falschen Konsum der Menschen liegt. In diesem Text wollen wir einerseits die wahren Ursachen [^wirkliche_gruende] für die erwähnten üblen Dinge in dieser Welt ansprechen und uns andererseits erklären wieso in dieser Gesellschaft Konsumkritik so weit verbreitet ist.
+
+Dieser Text stellt also keine Hilfe im täglichen Umgang mit Konsum da. Sein Ziel ist es, die Argumente von Konsumkritikerinnen nachzuvollziehen und an diesen Kritik zu üben.
 
 ### Konsum: Was soll das sein?
 
