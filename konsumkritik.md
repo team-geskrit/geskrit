@@ -26,12 +26,12 @@ Aus der Logik dieses Zweckes  Profit ergeben sich für die Umwelt, die Höhe des
 
 ##### ... Umwelt und Natur?
 
-Die Umwelt ist zuerst einmal die Bedingung dafür, dass man überhaupt konsumieren kann: irgendwoher müssen die Stoffe ja kommen, die mit Arbeit in nützliche Sachen umgewandelt werden können. Gleichzeitig ist sie die Umgebung, in der jeder Konsum und jede Lebensregung stattfindet: Deswegen ist es nützlich dass sie so gestaltet ist, dass sie dem Menschen möglichst wenig schadet.
+Die Umwelt ist die Bedingung dafür, dass man überhaupt konsumieren kann: irgendwoher müssen die Stoffe ja kommen, die mit Arbeit in nützliche Sachen umgewandelt werden können. Gleichzeitig ist sie die Umgebung, in der jeder Konsum und jede Lebensregung stattfindet: Deswegen ist es nützlich dass sie so gestaltet ist, dass sie dem Menschen möglichst wenig schadet.
 In der Logik des Profits allerdings liegt es, diese Bedingungen zu zerstören. So macht es für Fischereiunternehmen durchaus Sinn, Fischbestände so intensiv zu befischen dass nach ein paar Jahren keine Fische mehr vorhanden sind die man fischen kann. Letzlich bedeutet jeder Fisch den man selbst fangen und verkaufen kann mehr Gewinn[^ressourcen].  Bei nachwachsenden Ressourcen ist es also so, dass es in der Logik des Profits liegt sie zu [^ueberfischung] zerstören, solange man Geld mit ihnen verdienen kann.
 
 Das gleiche trifft auch auf endliche Ressourcen zu. Bei diesen ist es aber generell so, dass jeder Konsum sie nach einer gewissen Zeit aufbrauchen würde. Helium ist z.B. ein Rohstoff der auf der Erde nur begrenzt vorhanden ist und nach jedem Kontakt mit der Atmosphäre in den Weltraum entschwindet und nur sehr langsam reproduziert wird. Helium wird für ganz verschiedene Zwecke gebraucht - von der Entdeckung von Lücken in industriellen Systemen bis zum Aufblasen von Ballons - und wird dabei immer weniger. Nun ist es wiederum so, dass für eine Ballonverkäuferin jeder einzelne verkaufte Ballon Gewinn bedeutet, also ihren Profit steigert - auch wenn darüber das Helium verloren geht, welches für wichtigere Zwecke gebraucht wird. Auch bei endlichen Resourcen liegt es also in der Logik des Profits, diese [Rohstoffquellen möglichst schnell und egal für welche Anwendung aufzubrauchen](http://www.spiegel.de/wissenschaft/natur/edelgas-nobelpreistraeger-warnt-vor-weltweitem-helium-mangel-a-713535.html).
 
-Bei der Produktion von Waren entstehen oft Abfallprodukte die für den Menschen schädlich sind - sei es direkt oder über den Umweg, dass nützliche Natur dabei zerstört wird. Diese Abfallprodukte in einer resourcenschonenden Weise zu entsorgen oder gleich ganz deren Entstehen zu vermeiden, kostet Geld, welches immer ein Abzug des Gewinns der Unternehmen ist. Es macht also für Unternehmen durchaus Sinn, Nervengifte wie z.B. Blei in Wasser zu leiten wenn sich damit Entsorgungskosten vermeiden lassen, wie es gerade in [Flint, Michigang geschah/geschieht](http://www.zeit.de/politik/2016-01/michigan-trinkwasser-blei-barack-obama-notstand).
+Bei der Produktion von Waren entstehen oft Abfallprodukte die für den Menschen schädlich sind - sei es direkt oder über den Umweg, dass nützliche Natur dabei zerstört wird. Diese Abfallprodukte in einer resourcenschonenden Weise zu entsorgen oder gleich ganz deren Entstehen zu vermeiden, kostet Geld, welches immer ein Abzug des Gewinns der Unternehmen ist. Es macht also für Unternehmen durchaus Sinn, Nervengifte wie z.B. Blei in Wasser zu leiten wenn sich damit Entsorgungskosten vermeiden lassen, wie es in [Flint, Michigan geschah](http://www.zeit.de/politik/2016-01/michigan-trinkwasser-blei-barack-obama-notstand).
 
 Was man also als Fazit festhalten kann ist: Der Zweck Profit vernichtet die Umwelt als Grundlage für Produktion und Konsum [^TODO:umweltgesetzgebung].
 
@@ -71,12 +71,33 @@ Aufgrund dieses Widerspruchs, der sich in jedem Kaufakt widerspiegelt, existiere
 
 ### Das natürlichste der Welt: Aus Geld mehr Geld machen
 
-An dem Grund der gerade beschriebenen Übel hat auch kaum jemand einen Zweifel. Wenn Unternehmen bei Ausgaben an allen Ecken und Enden sparen und die Leute zu Tode schuften, so wirkt sich das positiv auf den Profit aus. Dies wird aber vom größten Teil der Bevölkerung nicht zum Anlass genommen sich ablehnend zum Unternehmenszweck Profit zu stellen. Konsumkritikerinnnen machen etwas ganz anderes: Wenn Mensch und Natur übel mitgespielt wird, so ist laut den Kritikerinnen nicht der Profit der Kern des Übels.
+Aus den oberen Beispielen wurde ersichtlich: Das Profitinteresse von Unternehmen und die daraus folgenden Schäden sind den meisten Menschen in dieser Gesellschaft bekannt.
 
-Der verantwortungsvolle Profit ist für sie ganz im Gegenteil ein Segen für die Menschheit: So zwingt er, laut ihnen, Unternehmen dazu, ihre Produktion auf die Bedürfnisse der Menschen auszurichten. So sieht dann die Welt der Kritikerinnen dann auch aus: Konsumentinnen sind die Herrscherinnen über die Produktion - sie entscheiden ja letzendlich welchen Unternehmen sie ihr Geld überlassen.
+Dies nimmt der größte Teil der Bevölkerung aber nicht zum Anlass sich ablehnend zum Unternehmenszweck Profit zu stellen. Konsumkritikerinnnen machen etwas ganz anderes: Wenn Mensch und Natur übel mitgespielt wird, so ist laut den Kritikerinnen nicht der Profit der Kern des Übels.
 
-Wenn ein Unternehmen rote Zahlen schreibt und vom Konkurs bedroht ist, so sind Entlassungen für Konsumkritikerinnen nur nachvollziehbar - keinesfalls ein Vergehen gegen die Menschlichkeit. Gleiches gilt für technische Innovationen: Kein Arbeitsplatz der hier verloren geht, wird als Anlass genommen sich diese Wirtschaftsweise genauer anzusehen. Wenn Unternehmen neben teuren aber sicheren auch billigere und dafür unsichere Autos bauen, so spricht das nicht gegen den Zweck der Unternehmen, sondern dafür, dass in dieser Wirtschaftsweise Geldbeutel - so klein er auch sein mag - von Unternehmen vergessen wird.
- 
+Für Konsumkritikerinnen gibt es nicht nur "den" Profit. Sie gehen von der Existenz eines "verantwortungsvollen" Profits aus. Dieser verantwortungsvolle Profit ist für sie ganz im Gegenteil zum "verantwortungslosen" Profit ein Segen für die Menschheit.
+
+Mittels einer handvoll Beispielen, wollen wir den Gedanken vom "verantwortungsvollen" Profit und seine Konsequenzen etwas genauer beleuchten.
+
+#### Beispiel im Bereich Umwelt und Natur:
+* Ein Unternehmen trägt durch seine Fischereiaktivitäten zur Überfischung bei und bedroht das Überleben dieser Fischart.
+* Diese Art und Weise mit Fischen Geld zu verdienen, wird von Konsumkritikerinnen als verantwortunglos bezeichnet.
+* Nachhaltiges Fischen (also Beschränkung der Fangquote, Reduzierung des Beifangs und Verzicht auf Schleppnetz) jedoch, wäre für Konsumkritikerinnen eine verantwortungsvolle Art Gewinn zu machen.
+* Mögliche Folge dieses verantwortungsvollen Geldmachens: Ein Unternehmen verkauft die nachhaltigen Fische zu einem höheren Preis und viele Menschen können sich diesen nicht mehr leisten. Weiters richtet das Unternehmen Aquakulturen ein um mit billigen Fischen weiterhin Geld verdienen zu können. Diese Aquakulturen wirken sich [oft verheerend auf die Ökologie aus](http://www.economist.com/node/1974103).
+
+#### Beispiel für den Bereich Arbeitsplatz:
+TODO: maschine/investition/marktanteil
+
+#### Beispiel für den Bereich Produkte und Dienstleistungen:
+* Ein Unternehmen produziert Produkte, die entweder geplant kurz nach der Garantiepflicht kapput gehen oder durch ihre mindere Qualität eine kurze Lebensdauer besitzen. Das ist für Konsumkritikerinnen eine verantwortlungse Profitmacherei, da dies auf Kosten der Verbraucherinnen geht.
+* Verantwortungsvolles Produzieren bedeutet qualitativ hochwertige Waren zu produzieren.
+* Was wäre eine nicht gewollte Konsequenz? Durch die längere Lebensdauer der Produkte, werden weniger davon verkauft. Dies kann bei Unternehmen zu unterschiedlichsten Strategien zur Erhaltung des Profits führen. Sie könnten zum Beispiel den Preis des Produkts erhöhen, dadurch bleibt der Profit trotz weniger verkauften Produkte gleich. Da nun weniger Arbeit anfällt, kann sich das Unternehmen entscheiden Arbeitsnehmerinnen abzubauen oder es start den Versuch Marktanteile von Konkurrentinnen zu erobern. Ist dieser Versuch erfolgreich, werden dann eben Arbeitsnehmerinnen beim Konkurrenzunternehmen gekündigt oder es findet andere Wege (Konzentration auf die Produkte mit niedriger Qualität für den kleinen Geldbeutel) um sich am Markt zu halten.
+
+(So zwingt er, laut ihnen, Unternehmen dazu, ihre Produktion auf die Bedürfnisse der Menschen auszurichten. So sieht dann die Welt der Kritikerinnen dann auch aus: Konsumentinnen sind die Herrscherinnen über die Produktion - sie entscheiden ja letzendlich welchen Unternehmen sie ihr Geld überlassen.)
+
+Schlechter Absatz, gehört geändert:
+Wenn ein Unternehmen rote Zahlen schreibt und vom Konkurs bedroht ist, so sind Entlassungen für Konsumkritikerinnen nur nachvollziehbar - keinesfalls ein Vergehen gegen die Menschlichkeit. Gleiches gilt für technische Innovationen: Kein Arbeitsplatz der hier verloren geht, wird als Anlass genommen sich diese Wirtschaftsweise genauer anzusehen. Wenn Unternehmen neben teuren aber sicheren, auch billigere und dafür unsichere Autos bauen, so spricht das nicht gegen den Zweck der Unternehmen, sondern dafür, dass in dieser Wirtschaftsweise Geldbeutel - so klein sie auch sein mögen - von Unternehmen vergessen werden.
+
 ### Was zuviel ist zuviel - vom verantwortlichen Wirtschaften zum üblen Ausbeuten
 
 Stattdessen sehen Konsumkritiker den Grund der ganzen Übel in übersteigertem Interesse an Profit. Dafür haben sie viele Namen, Profitmaximierung oder Gier sind zwei davon. Egal woran sie es festmachen, dass die Unternehmen geleitet von dieser Gier agieren, ob es nun daran liegt dass die Konkurrenz ihnen kein andere Wahl lässt, dass die Leute falsch konsumieren und damit kein anderes Verhalten zulassen, oder einfach an der Arschigkeit der Bosse, eines ist klar: Sie machen eine Trennung auf zwischen Unternehmen die zwar Profit machen, aber auf eine gerechte oder nachhaltige Weise, und Unternehmen die für das Interesse des Profits alles opfern.
