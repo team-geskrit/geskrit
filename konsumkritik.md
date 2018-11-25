@@ -71,59 +71,61 @@ Aufgrund dieses Widerspruchs, der sich in jedem Kaufakt widerspiegelt, existiere
 
 ### Das natürlichste der Welt: Aus Geld mehr Geld machen
 
-Aus den oberen Beispielen wurde ersichtlich: Das Profitinteresse von Unternehmen und die daraus folgenden Schäden sind den meisten Menschen in dieser Gesellschaft bekannt.
+Aus den oberen Beispielen wurde ersichtlich: Das Profitinteresse von Unternehmen und die daraus folgenden Schäden sind den meisten Menschen in dieser Gesellschaft bekannt. Schäden an Umwelt, Mensch und Tier zur Maximisierung des Profits werden öffentlich diskutiert und thematisiert.
 
-Dies nimmt der größte Teil der Bevölkerung aber nicht zum Anlass sich ablehnend zum Unternehmenszweck Profit zu stellen. Konsumkritikerinnnen machen etwas ganz anderes: Wenn Mensch und Natur übel mitgespielt wird, so ist laut den Kritikerinnen nicht der Profit der Kern des Übels.
-
-Für Konsumkritikerinnen gibt es nicht nur "den" Profit. Sie gehen von der Existenz eines "verantwortungsvollen" Profits aus. Dieser verantwortungsvolle Profit ist für sie ganz im Gegenteil zum "verantwortungslosen" Profit ein Segen für die Menschheit.
-
-Mittels einer handvoll Beispielen, wollen wir den Gedanken vom "verantwortungsvollen" Profit und seine Konsequenzen etwas genauer beleuchten.
-
-#### Beispiel im Bereich Umwelt und Natur:
-* Ein Unternehmen trägt durch seine Fischereiaktivitäten zur Überfischung bei und bedroht das Überleben dieser Fischart.
-* Diese Art und Weise mit Fischen Geld zu verdienen, wird von Konsumkritikerinnen als verantwortunglos bezeichnet.
-* Nachhaltiges Fischen (also Beschränkung der Fangquote, Reduzierung des Beifangs und Verzicht auf Schleppnetz) jedoch, wäre für Konsumkritikerinnen eine verantwortungsvolle Art Gewinn zu machen.
-* Mögliche Folge dieses verantwortungsvollen Geldmachens: Ein Unternehmen verkauft die nachhaltigen Fische zu einem höheren Preis und viele Menschen können sich diesen nicht mehr leisten. Weiters richtet das Unternehmen Aquakulturen ein um mit billigen Fischen weiterhin Geld verdienen zu können. Diese Aquakulturen wirken sich [oft verheerend auf die Ökologie aus](http://www.economist.com/node/1974103).
-
-#### Beispiel für den Bereich Arbeitsplatz:
-TODO: maschine/investition/marktanteil
-
-#### Beispiel für den Bereich Produkte und Dienstleistungen:
-* Ein Unternehmen produziert Produkte, die entweder geplant kurz nach der Garantiepflicht kapput gehen oder durch ihre mindere Qualität eine kurze Lebensdauer besitzen. Das ist für Konsumkritikerinnen eine verantwortlungse Profitmacherei, da dies auf Kosten der Verbraucherinnen geht.
-* Verantwortungsvolles Produzieren bedeutet qualitativ hochwertige Waren zu produzieren.
-* Was wäre eine nicht gewollte Konsequenz? Durch die längere Lebensdauer der Produkte, werden weniger davon verkauft. Dies kann bei Unternehmen zu unterschiedlichsten Strategien zur Erhaltung des Profits führen. Sie könnten zum Beispiel den Preis des Produkts erhöhen, dadurch bleibt der Profit trotz weniger verkauften Produkte gleich. Da nun weniger Arbeit anfällt, kann sich das Unternehmen entscheiden Arbeitsnehmerinnen abzubauen oder es start den Versuch Marktanteile von Konkurrentinnen zu erobern. Ist dieser Versuch erfolgreich, werden dann eben Arbeitsnehmerinnen beim Konkurrenzunternehmen gekündigt oder es findet andere Wege (Konzentration auf die Produkte mit niedriger Qualität für den kleinen Geldbeutel) um sich am Markt zu halten.
-
-(So zwingt er, laut ihnen, Unternehmen dazu, ihre Produktion auf die Bedürfnisse der Menschen auszurichten. So sieht dann die Welt der Kritikerinnen dann auch aus: Konsumentinnen sind die Herrscherinnen über die Produktion - sie entscheiden ja letzendlich welchen Unternehmen sie ihr Geld überlassen.)
-
-Schlechter Absatz, gehört geändert:
-Wenn ein Unternehmen rote Zahlen schreibt und vom Konkurs bedroht ist, so sind Entlassungen für Konsumkritikerinnen nur nachvollziehbar - keinesfalls ein Vergehen gegen die Menschlichkeit. Gleiches gilt für technische Innovationen: Kein Arbeitsplatz der hier verloren geht, wird als Anlass genommen sich diese Wirtschaftsweise genauer anzusehen. Wenn Unternehmen neben teuren aber sicheren, auch billigere und dafür unsichere Autos bauen, so spricht das nicht gegen den Zweck der Unternehmen, sondern dafür, dass in dieser Wirtschaftsweise Geldbeutel - so klein sie auch sein mögen - von Unternehmen vergessen werden.
+Dies nimmt der größte Teil der Bevölkerung aber nicht zum Anlass sich ablehnend zum Unternehmenszweck Profit zu stellen. Konsumkritikerinnnen machen etwas ganz anderes: Wenn Mensch und Natur übel mitgespielt wird, so ist - laut den Kritikerinnen - nicht der Profit der Kern des Übels.
 
 ### Was zuviel ist zuviel - vom verantwortlichen Wirtschaften zum üblen Ausbeuten
 
-Stattdessen sehen Konsumkritiker den Grund der ganzen Übel in übersteigertem Interesse an Profit. Dafür haben sie viele Namen, Profitmaximierung oder Gier sind zwei davon. Egal woran sie es festmachen, dass die Unternehmen geleitet von dieser Gier agieren, ob es nun daran liegt dass die Konkurrenz ihnen kein andere Wahl lässt, dass die Leute falsch konsumieren und damit kein anderes Verhalten zulassen, oder einfach an der Arschigkeit der Bosse, eines ist klar: Sie machen eine Trennung auf zwischen Unternehmen die zwar Profit machen, aber auf eine gerechte oder nachhaltige Weise, und Unternehmen die für das Interesse des Profits alles opfern.
+Für Konsumkritikerinnen gibt es nicht nur "den" Profit. Sie gehen von der Existenz eines "verantwortungsvollen" Profits aus.
 
-Diese Trennung an sich ist schon falsch: Wie wir oben beschrieben haben liegt es in der Logik des Ziels, aus einer Geldmenge mehr zu machen, sich gegenüber den Produzenten und der Natur rücksichtslos zu verhalten. Wo soll denn bitte die Grenze liegen zwischen "okay" Profit und "schlecht" Profit? Die Grenze gibt es nicht, deswegen wird sie auch recht willkürlich gezogen von den Konsumkritikern. Für die einen ist es schon ein Skandal und Hinweis auf Gier wenn Leute gefeuert werden, obwohl der Gewinn gesteigert worden ist. Andere ziehen die Grenze da, wo Natur zerstört wird. Jeder regt sich darüber auf wenn in Bangladesch Fabriken zusammenstürzen und die Belegschaft unter sich begraben.
+Konsumkritikerinnen sehen also den Grund der ganzen Übel im übersteigertem Interesse an Profit. Dafür haben sie viele Namen: Profitmaximierung oder Gier sind zwei davon.
 
-In all diesen Fällen jedoch ist es nicht der Zweck, der verfolgt wird, worüber sich die Konsumkritiker aufregen, sondern die Rücksichtslosigkeit, die Maßlosigkeit mit der er verfolgt wird. Das Maß an Rücksicht das sie für notwendig halten ist dabei einfach das was sie als okay bewerten, was sie nicht aufregt.
+Egal was die Kritikerinnen als Grund für das Verhalten der Unternehmen sehen - für manche ist es die Konkurrenz, die Unternehmen zu schädlichen Verhaltenweisen zwingt, andere verweisen auf die Gier von Managerinnen und Aktionärinnen: Sie machen eine Trennung auf zwischen Unternehmen die zwar Profit machen, aber auf eine gerechte oder nachhaltige Weise, und solche die für den Profits alles opfern.
+
+Mittels einer handvoll Beispielen, wollen wir den Gedanken vom "verantwortungsvollen" Profit und seinen Konsequenzen etwas genauer beleuchten.
+
+#### Beispiel im Bereich Umwelt und Natur:
+* Ein Unternehmen trägt durch seine Fischereiaktivitäten zur Überfischung bei und bedroht das Überleben einer Fischart.
+* Diese Art und Weise mit Fischen Geld zu verdienen, wird von Konsumkritikerinnen als verantwortunglos bezeichnet.
+* Nachhaltiges Fischen (also Beschränkung der Fangquote, Reduzierung des Beifangs und Verzicht auf Schleppnetze) jedoch, wäre für Konsumkritikerinnen eine verantwortungsvolle Art Gewinn zu machen.
+* Mögliche Folge dieses verantwortungsvollen Geldmachens: Ein Unternehmen verkauft die nachhaltigen Fische zu einem höheren Preis und viele Menschen können sich diese nicht mehr leisten. Weiters richtet das Unternehmen Aquakulturen ein um mit billigen Fischen weiterhin Geld verdienen zu können. Diese Aquakulturen wirken sich [oft verheerend auf die Ökologie aus](http://www.economist.com/node/1974103).
+
+#### Beispiel für den Bereich Arbeitsplatz:
+* Ein Unternehmen verwendet seinen Gewinn um neue effizientere Maschinen zu kaufen. Da nun mit weniger Angestellten gleich viel produziert werden kann, entscheidet sich das Unternehmen dafür, einigen davon zu kündigen.
+* Konsumkritikerinnen sehen ein Unternehmen mit solidem Gewinn, welches Angestellten kündigt. Es geht dem Unternehmen also "nur" um den Profit, dafür wird es kritisiert.
+* Kauft das Unternehmen diese Maschinen und entlässt keine Angestellten, weitet also die Produktion aus, so wird das Unternehmen für diese Investition gelobt. Es gibt ja immerhin Geld aus um Arbeitsplätze zu erhalten.
+* "Ausweiten der Produktion" bedeutet aber einen Angriff auf die Marktanteile anderer Unternehmen. Verkauft das eine Unternehmen mehr als vorher, gefährdet dies den Erfolg eines anderen. Um weiter am Markt bestehen zu können, kann es für das Konkurrenzunternehmen sinnvoll sein Kosten zu sparen. Im Zuge des Sparkurses könnten Angestellte entlassen werden. Dies ist für Konsumkritikerinnen bedauernswert aber noch lange kein Skandal. Ohne diesem Sparkurs, gäbe es ja vielleicht gar keine Arbeitsplätze mehr. Ein Unternehmen braucht um Überleben zu können die Möglichkeit Profit zu machen.
+
+#### Beispiel für den Bereich Produkte und Dienstleistungen:
+* Ein Unternehmen produziert Produkte, die entweder geplant kurz nach der Garantiepflicht kaputt gehen oder durch ihre mindere Qualität eine kurze Lebensdauer besitzen. Das ist für Konsumkritikerinnen eine verantwortungslose Profitmacherei, welche für Verbraucherinnen Nachteile bedeutet.
+* Verantwortungsvolles Produzieren bedeutet qualitativ hochwertige Waren zu produzieren.
+* Was wäre eine nicht gewollte Konsequenz? Durch die längere Lebensdauer der Produkte, werden weniger davon verkauft. Dies kann bei Unternehmen zu unterschiedlichsten Strategien zur Erhaltung des Profits führen. Sie könnten zum Beispiel den Preis des Produkts erhöhen, dadurch bleibt der Profit trotz weniger verkauften Produkte gleich. Da nun weniger Arbeit anfällt, kann sich das Unternehmen entscheiden Arbeitsnehmerinnen abzubauen oder es startet den Versuch Marktanteile von Konkurrentinnen zu erobern. Ist dieser Versuch erfolgreich, werden dann eben Arbeitsnehmerinnen beim Konkurrenzunternehmen gekündigt oder es findet andere Wege (z.B. Konzentration auf Produkte mit niedriger Qualität für den kleinen Geldbeutel) um sich am Markt zu halten.
+
+Die Trennung zwischen verantwortungsvollem und "bösem" Profit ist falsch: Wie wir oben beschrieben haben liegt es in der Logik des Ziels (aus einer Geldmenge mehr machen) sich gegenüber den für Lohn Arbeitenden und der Natur rücksichtslos zu verhalten.
+
+Es gibt keine Grenze zwischen "verantwortungsvollem" und "verantwortungslosem" Profit. Deshalb wird sie auch von den Konsumkritikerinnen recht willkürlich gezogen. Für die einen ist es schon ein Skandal und Hinweis auf Gier wenn Leute gefeuert werden, obwohl der Gewinn gesteigert worden ist. Andere ziehen die Grenze da, wo Natur zerstört wird. Jede regt sich darüber auf, wenn in Bangladesch Fabriken zusammenstürzen und die Belegschaft unter sich begraben.
+
+In all diesen Fällen jedoch ist es nicht der Zweck Profit der kritisiert wird, sondern die Rücksichtslosigkeit und die Maßlosigkeit mit der er verfolgt wird.
 
 ### Der Konsum als Zuckerbrot und Peitsche
 
-Wie kämpfen nun die Gegnerinnen der Maßlosigkeit gegen all die Ungerechtigkeiten dieser Welt? Sie nutzen den Profit - das um was es Unternehmen bei ihrer Geschäftstätigkeit geht - als Hebel. Sie nutzen ihn als Mittel Unternehmen zu bestrafen, welche sich schlecht verhalten und solche zu belohnen, welche gewissse willkürliche Standards einhalten. Bestraft werden Unternehmen durch Konsumboykott: Solange das Unternehmen sich in den Augen der Kritikerinnen unangenemessen verhält, werden keine Waren von ihm gekauft. Verantwortungsvolle Unternehmen wiederum werden mit einer Schar von loyalen Kundinnen belohnt, welche eifrig Werbung dafür machen und regelmässig Geld an sie überweisen.
+Wie kämpfen nun die Gegnerinnen der Maßlosigkeit gegen all die Ungerechtigkeiten dieser Welt? Sie nutzen den Profit - das um was es Unternehmen bei ihrer Geschäftstätigkeit geht - als Hebel. Sie nutzen ihn als Mittel um Unternehmen zu bestrafen, welche sich schlecht verhalten und solche zu belohnen, welche gewissse subjektive Standards einhalten.
 
-Dieser Widerspruch, das Profitinteresse dass die Unternehmen haben, dafür zu verwenden Verbesserungen zu erreichen die ihm widersprechen, bringt auch Konsumkritiker in gewisse Dilemmas. So hört man immer wieder von Bioskandalen oder ähnlichem, wo Produkte als Bio gelabelt wurden aber gar nicht wirklich Bio waren. Oder beim Fairphone stellt sich heraus dass es in den gleichen Fabriken mit minimal mehr Lohn produziert wurde wie andere Smartphones. Da die unternehmen ja immer noch Profit machen wollen und dieser Zweck zu allerlei Schäden führt, sind Konsumkritiker zu ständiger Wachsamkeit gezwungen, dass auch wirklich das herauskommt was sie sich vorstellen.
+Bestraft werden Unternehmen durch Konsumboykott: Solange das Unternehmen sich in den Augen der Kritikerinnen unangenemessen verhält, werden keine Waren von ihm gekauft. Verantwortungsvolle Unternehmen wiederum werden mit einer Schar von loyalen Kundinnen belohnt, welche eifrig Werbung dafür machen und regelmässig Geld an sie überweisen.
 
 ### Die höchste Form des Konsums: Der Verzicht
 
-Mit diesem Vorgehen geraten die Konsumkritiker jedoch in einen Widerspruch. Den Konsum haben wir oben beschrieben als die Benützung von Produkten zur Bedürfnisbefriedigung. Die Konsumkritiker haben dabei entdeckt, dass mit der Herstellung und Verteilung von Produkten viele Sachen verbunden sind, die sie nicht wollen. Um dem abzuhelfen, konsumieren sie anders - beispielsweise fair oder regional  - um damit die Unternehmen zu zwingen, sich gemäß ihren Interessen zu verhalten. Damit bürden sie aber ihrem Konsum einen Zweck auf, der dem Ausgangspunkt widerspricht: Um gute Sachen konsumieren zu können, müssen sie zuerst einmal strategisch konsumieren.
+Mit diesem Vorgehen geraten die Konsumkritikerinnen jedoch in einen Widerspruch. Den Konsum haben wir oben definiert als die Benützung von Produkten zur Bedürfnisbefriedigung. Konsumkritikerinnen haben dabei entdeckt, dass mit der Herstellung und Verteilung von Produkten viel unangenehmes verbunden ist. Um dem abzuhelfen, konsumieren sie anders - beispielsweise fair oder regional - um damit die Unternehmen zu zwingen, sich gemäß den Interessen der Kritikerinnen zu verhalten. Damit bürden sie aber ihrem Konsum einen Zweck auf, der dem Ausgangspunkt widerspricht: Um gute Sachen konsumieren zu können, müssen die Kritikerinnen zuerst einmal strategisch konsumieren.
 
-So ist es zum Beispiel bei Bioprodukten oder Fairtradeprodukten so, dass diese generell mehr kosten. Verlangt man nun richtigen Konsum, also die teureren Produkte zu konsumieren, so bedeutet dass für die meisten Menschen, die sich sowieso immer schon einteilen müssen, dass sie auf andere Produkte verzichten müssen. Der Ausgangspunkt, nämlich über den Konsum für bessere Verhältnisse zu sorgen, hat sich nun umgewandelt in den Verzicht auf Konsum, um richtig konsumieren zu können.
+Bio- oder Fairtradeprodukte kosten generell mehr. Verlangt man nun richtigen Konsum - also den Konsum und Kauf teurerer Produkte - so bedeutet dass für die meisten Menschen, die sich sowieso immer schon einteilen müssen, dass sie auf andere Produkte verzichten müssen. Der Ausgangspunkt, nämlich über den Konsum für bessere Verhältnisse zu sorgen, hat sich nun umgewandelt in den Verzicht auf Konsum, um richtig konsumieren zu können.
 
-Da die Konsumkritiker den Zweck, für den hier produziert wird, nämlich aus Geld mehr Geld machen zu wollen, nicht aktzpetieren als das wass einer vernünftigen Bedürfnisbefriedigung im Weg steht müssen sie sich also selber in ihren Bedürfnissen beschränken oder dass von anderen verlangen. 
+Da die Konsumkritikerinnen den Zweck, für den hier produziert wird, nämlich aus Geld mehr Geld machen zu wollen, nicht aktzpetieren als das was einer vernünftigen Bedürfnisbefriedigung im Weg steht, müssen sie sich also selber in ihren Bedürfnissen beschränken oder dies von anderen verlangen.
 
 ### Fazit
 
 Zum Schluss noch ein Sprung an den Anfang: In der Einleitung haben wir versprochen, die wirklichen Gründe für all die Übel zu nennen, welche manchen Menschen so sauer aufstoßen, dass sie darüber zu Konsumkritikerinnen werden. Diese Gründe liegen in den zwei Widersprüchen, die wir herausgearbeitet haben:
-    
+
 Da Unternehmen Interesse an einem hohen Profit haben, ergibt sich daraus für die Menschen die in diesen arbeiten, ein möglichst geringer Lohn. Weiters sind ihre Arbeitsplätze so eingerichtet, dass sie für Stimmung, Gesundheit und oft das Leben eine Gefahr darstellen.
 Da Unternehmen Interesse an einem hohen Profit haben, ergibt sich daraus für die Umwelt, die als Grundlage und Stoff der Produktion dient, die Zerstörung: Böden und Gewässer werden verseucht, weil die Entsorgung in ihnen billiger ist als eine umweltfreundlichere. Tiere werden möglichst billig, also grausam gehalten.
 
