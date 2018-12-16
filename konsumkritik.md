@@ -106,21 +106,24 @@ Die Trennung zwischen verantwortungsvollem und "bösem" Profit ist falsch: Wie w
 
 Es gibt keine Grenze zwischen "verantwortungsvollem" und "verantwortungslosem" Profit. Deshalb wird sie auch von den Konsumkritikerinnen recht willkürlich gezogen. Für die einen ist es schon ein Skandal und Hinweis auf Gier wenn Leute gefeuert werden, obwohl der Gewinn gesteigert worden ist. Andere ziehen die Grenze da, wo Natur zerstört wird. Jede regt sich darüber auf, wenn in Bangladesch Fabriken zusammenstürzen und die Belegschaft unter sich begraben.
 
-In all diesen Fällen jedoch ist es nicht der Zweck Profit der kritisiert wird, sondern die Rücksichtslosigkeit und die Maßlosigkeit mit der er verfolgt wird.
+In all diesen Fällen wird von Konsumkritikerinnen jedoch
+nicht der Zweck Profit abgelehnt, sondern die Rücksichtslosigkeit und die Maßlosigkeit mit der er verfolgt wird.
 
 ### Der Konsum als Zuckerbrot und Peitsche
 
 Wie kämpfen nun die Gegnerinnen der Maßlosigkeit gegen all die Ungerechtigkeiten dieser Welt? Sie nutzen den Profit - das um was es Unternehmen bei ihrer Geschäftstätigkeit geht - als Hebel. Sie nutzen ihn als Mittel um Unternehmen zu bestrafen, welche sich schlecht verhalten und solche zu belohnen, welche gewissse subjektive Standards einhalten.
 
-Bestraft werden Unternehmen durch Konsumboykott: Solange das Unternehmen sich in den Augen der Kritikerinnen unangenemessen verhält, werden keine Waren von ihm gekauft. Verantwortungsvolle Unternehmen wiederum werden mit einer Schar von loyalen Kundinnen belohnt, welche eifrig Werbung dafür machen und regelmässig Geld an sie überweisen.
+Bestraft werden Unternehmen durch Konsumboykott: Solange ein Unternehmen sich in den Augen der Kritikerinnen unangemessen verhält, werden keine Waren von ihm gekauft. Verantwortungsvolle Unternehmen hingegen werden mit einer Schar von loyalen Kundinnen, welche eifrig Werbung für sie machen und regelmässig Geld an sie überweisen, belohnt.
 
 ### Die höchste Form des Konsums: Der Verzicht
 
-Mit diesem Vorgehen geraten die Konsumkritikerinnen jedoch in einen Widerspruch. Den Konsum haben wir oben definiert als die Benützung von Produkten zur Bedürfnisbefriedigung. Konsumkritikerinnen haben dabei entdeckt, dass mit der Herstellung und Verteilung von Produkten viel unangenehmes verbunden ist. Um dem abzuhelfen, konsumieren sie anders - beispielsweise fair oder regional - um damit die Unternehmen zu zwingen, sich gemäß den Interessen der Kritikerinnen zu verhalten. Damit bürden sie aber ihrem Konsum einen Zweck auf, der dem Ausgangspunkt widerspricht: Um gute Sachen konsumieren zu können, müssen die Kritikerinnen zuerst einmal strategisch konsumieren.
+Mit diesem Vorgehen geraten die Konsumkritikerinnen in einen Widerspruch. Den Konsum haben wir oben definiert als die Benützung von Produkten zur Bedürfnisbefriedigung. Konsumkritikerinnen haben dabei entdeckt, dass mit der Herstellung und Verteilung von Produkten viel Unangenehmes verbunden ist. Um dem abzuhelfen, konsumieren sie anders um damit die Unternehmen zu zwingen, sich gemäß den Interessen der Kritikerinnen zu verhalten.
 
-Bio- oder Fairtradeprodukte kosten generell mehr. Verlangt man nun richtigen Konsum - also den Konsum und Kauf teurerer Produkte - so bedeutet dass für die meisten Menschen, die sich sowieso immer schon einteilen müssen, dass sie auf andere Produkte verzichten müssen. Der Ausgangspunkt, nämlich über den Konsum für bessere Verhältnisse zu sorgen, hat sich nun umgewandelt in den Verzicht auf Konsum, um richtig konsumieren zu können.
+Damit bürden sie ihrem Konsum einen Zweck auf, den er anfangs nicht hatte: War der Zweck von Konsum anfangs noch Bedürfnisbefriedigung, so muss der Konsum nun Missständen in der Gesellschaft entgegenwirken &mdash; auch wenn Kritikerinnen dabei auf die Bedürfnisbefriedigung verzichten müssen. Sie verzichten also auf Konsum, um nachhaltig konsumieren zu können.
 
-Da die Konsumkritikerinnen den Zweck, für den hier produziert wird, nämlich aus Geld mehr Geld machen zu wollen, nicht aktzpetieren als das was einer vernünftigen Bedürfnisbefriedigung im Weg steht, müssen sie sich also selber in ihren Bedürfnissen beschränken oder dies von anderen verlangen.
+Auch wenn Kritikerinnen nicht vollständig auf Produkte verzichten, sondern stattdessen auf teurere setzen, so üben sie damit Verzicht. Der Kauf eines teureren Produkts, schliesst den Kauf eines anderen aus.
+
+Da die Konsumkritikerinnen fälschlicherweise den Grund für alle Übel im maßlosen Konsum und den übersteigerten Bedürfnissen der Menschen sehen und nicht im wirklichen Grund für den produziert wird &mdash; das Profitinteresse der Unternehmen &mdash; schränken sie sich selber in ihren Bedürfnissen ein und/oder verlangen dies von anderen..
 
 ### Fazit
 
@@ -129,7 +132,7 @@ Zum Schluss noch ein Sprung an den Anfang: In der Einleitung haben wir versproch
 Da Unternehmen Interesse an einem hohen Profit haben, ergibt sich daraus für die Menschen die in diesen arbeiten, ein möglichst geringer Lohn. Weiters sind ihre Arbeitsplätze so eingerichtet, dass sie für Stimmung, Gesundheit und oft das Leben eine Gefahr darstellen.
 Da Unternehmen Interesse an einem hohen Profit haben, ergibt sich daraus für die Umwelt, die als Grundlage und Stoff der Produktion dient, die Zerstörung: Böden und Gewässer werden verseucht, weil die Entsorgung in ihnen billiger ist als eine umweltfreundlichere. Tiere werden möglichst billig, also grausam gehalten.
 
-Diese Übel werden jedoch nicht durch Kritik an der Art und Weise wie Menschen konsumieren aus der Welt geschafft. Das Appellieren an ethischen Konsum verändert nichts an den herrschenden Verhältnissen. Auch unsere vorgetragene Kritik am Konsum im Kapitalismus, schafft dessen Übel nicht ab. Nimmt man sie jedoch ernst und zieht aus ihr die praktischen Konsequenzen, ergibt sich ein ganz anderes Programm als Reformen, die den Kapitalismus auch nicht sympathischer und menschenfreundlicher machen: Notwendig ist das Abschaffen einer Wirtschaftsweise, die sich um Geldvermehrung dreht und das Schaffen einer, in der es um die Bedürfnisbefriedigung der Menschen geht.
+Diese Übel werden jedoch nicht durch eine Veränderung des Konsumverhaltens aus der Welt geschafft. Nachhaltiger Konsum verändert nichts an den herrschenden Verhältnissen. Auch unsere vorgetragene Kritik an Konsumkritikerinnen schafft dessen Übel nicht ab. Nimmt man sie jedoch ernst und zieht aus ihr die praktischen Konsequenzen, ergibt sich ein ganz anderes Programm als Versuche den Kapitalismus sympathischer und menschenfreundlicher zu machen: Notwendig ist das Abschaffen einer Wirtschaftsweise, die sich um Geldvermehrung dreht und das Schaffen einer, in der es um die Bedürfnisbefriedigung der Menschen geht.
 
 Falls bei euch ein schlechtes Gefühl im Magen übrigbleibt, weil:
 -   ihr doch ein paar gute Argumente für ethischen Konsum kennt,
@@ -144,8 +147,7 @@ Konzepte wie Fairtrade, regionales Einkaufen oder Dumpstern/Containern sollten a
 * [Tiere essen?](https://geskrit.wordpress.com/texte/kaufen-gegen-den-kapitalismus/tiere-essen)
 * [Der Griff in die Mülltonne](https://geskrit.wordpress.com/texte/kaufen-gegen-den-kapitalismus/der-griff-in-die-mulltonne)
 
-Weiters haben wir uns auch im Text [Konsum als Persönlichkeitspflege](https://geskrit.wordpress.com/texte/kaufen-gegen-den-kapitalismus/der-griff-in-die-mulltonne/) mit dem Phänomen von Statussymbolen und Markenartikeln in dieser Gesellschaft beschäftigt. 
-
+Weiters haben wir uns auch im Text [Konsum als Persönlichkeitspflege](https://geskrit.wordpress.com/texte/kaufen-gegen-den-kapitalismus/der-griff-in-die-mulltonne/) mit dem Phänomen von Statussymbolen und Markenartikeln in dieser Gesellschaft beschäftigt.
 
 ### Fußnoten:
 
